@@ -1,3 +1,3 @@
 ```
-cargo run --release
+cargo run --release https://rustup.rs/
 ```
